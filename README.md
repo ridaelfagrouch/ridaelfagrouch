@@ -1,4 +1,4 @@
-[![rel-fagr's 42 stats](https://badge.mediaplus.ma/binary/rel-fagr)](https://github.com/oakoudad/badge42)
+[![rel-fagr's 42 stats](https://badge.mediaplus.ma/greenbinary/rel-fagr)](https://github.com/oakoudad/badge42)
 
 ![](https://komarev.com/ghpvc/?username=rel-fagr&color=green)
 
