@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rel-fagr&color=green)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rel-fagr&show_icons=true&theme=merko)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rel-fagr&show_icons=true&theme=merko) -->
 
 
 <a href="https://github.com/ridaelfagrouch?tab=repositories">
