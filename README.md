@@ -1,8 +1,6 @@
-
+[![rel-fagr's 42 stats](https://badge.mediaplus.ma/greenbinary/rel-fagr)](https://github.com/oakoudad/badge42)
  </p>
 <p align="center">  
-  [![rel-fagr's 42 stats](https://badge.mediaplus.ma/greenbinary/rel-fagr)](https://github.com/oakoudad/badge42)
-
 ![](https://komarev.com/ghpvc/?username=rel-fagr&color=green)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rel-fagr&show_icons=true&theme=merko) -->
