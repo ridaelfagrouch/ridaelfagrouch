@@ -11,3 +11,8 @@
 
 <a href="https://github.com/ridaelfagrouch?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ridaelfagrouch&line_height=40&show_icons=true&theme=dark">
+  
+ </p>
+<p align="center">  
+<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
+</p>
