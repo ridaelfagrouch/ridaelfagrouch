@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rida El Fagrouch</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
+[![rel-fagr's 42 stats](https://badge.mediaplus.ma/greenbinary/rel-fagr)](https://github.com/oakoudad/badge42)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridaelfagrouch&label=Profile%20views&color=0e75b6&style=flat" alt="ridaelfagrouch" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@rida34089360" target="blank"><img src="https://img.shields.io/twitter/follow/@rida34089360?logo=twitter&style=for-the-badge" alt="@rida34089360" /></a> </p>
@@ -26,6 +28,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridaelfagrouch&" alt="ridaelfagrouch" /></p>
 
 
-[![rel-fagr's 42 stats](https://badge.mediaplus.ma/greenbinary/rel-fagr)](https://github.com/oakoudad/badge42)
-
-![](https://komarev.com/ghpvc/?username=rel-fagr&color=green)
