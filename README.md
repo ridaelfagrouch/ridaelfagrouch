@@ -29,7 +29,7 @@
 
 <p align="left">
   <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ridaelfagrouch?cardType=github&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ridaelfagrouch1&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ridaelfagrouch&theme=radical" />
 </p>
 
 
