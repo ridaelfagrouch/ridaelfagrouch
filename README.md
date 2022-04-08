@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rida El Fagrouch</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<p align="center">
-  [![rel-fagr's 42 stats](https://badge.mediaplus.ma/greenbinary/rel-fagr)](https://github.com/oakoudad/badge42)
-</p>
+ [![rel-fagr's 42 stats](https://badge.mediaplus.ma/greenbinary/rel-fagr)](https://github.com/oakoudad/badge42)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridaelfagrouch&label=Profile%20views&color=0e75b6&style=flat" alt="ridaelfagrouch" /> </p>
 
