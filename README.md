@@ -26,4 +26,5 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ridaelfagrouch&theme=tokyonight" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridaelfagrouch&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
