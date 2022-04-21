@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rida El Fagrouch</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
+### 👨‍💻 My 42 status
+
+[![aymoulou's 42 stats](https://badge42.vercel.app/api/v2/cl1kxonbk023209jmqkb8mbrn/stats?cursusId=21&coalitionId=73)](https://github.com/ridaelfagrouch/ridaelfagrouch/main/README.md)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridaelfagrouch&label=Profile%20views&color=0e75b6&style=flat" alt="ridaelfagrouch" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@rida34089360" target="blank"><img src="https://img.shields.io/twitter/follow/@rida34089360?logo=twitter&style=for-the-badge" alt="@rida34089360" /></a> </p>
