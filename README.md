@@ -3,7 +3,6 @@
 
 ### 👨‍💻 My 42 status
 
-[![aymoulou's 42 stats](https://badge42.vercel.app/api/v2/cl1kxonbk023209jmqkb8mbrn/stats?cursusId=21&coalitionId=73)](https://github.com/ridaelfagrouch/ridaelfagrouch/main/README.md)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridaelfagrouch&label=Profile%20views&color=0e75b6&style=flat" alt="ridaelfagrouch" /> </p>
 
