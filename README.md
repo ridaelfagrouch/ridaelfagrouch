@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@rida34089360" target="blank"><img src="https://img.shields.io/twitter/follow/@rida34089360?logo=twitter&style=for-the-badge" alt="@rida34089360" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** ,**sass** ,**tailwind** ,**nodejs** ,**Pugjs** ,**Gulpjs**
 
 - 📫 How to reach me **elfagrouchrida21@gmail.com**
 
