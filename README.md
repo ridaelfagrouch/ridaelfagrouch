@@ -1,4 +1,4 @@
-[<img src="[https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Ffr%2Fexemplaryfairfeline&psig=AOvVaw28PFgxqKrQiF1K2ULoqs6j&ust=1653920916170000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDwxdf1hPgCFQAAAAAdAAAAABAJ)" alt="👋 Hi there! I'm (Rida Elfagrouch)" title="👋 Hi there! I'm (Rida Elfagrouch)"]
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Ffr%2Fexemplaryfairfeline&psig=AOvVaw28PFgxqKrQiF1K2ULoqs6j&ust=1653920916170000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDwxdf1hPgCFQAAAAAdAAAAABAJ" alt="👋 Hi there! I'm (Rida Elfagrouch)" title="👋 Hi there! I'm (Rida Elfagrouch)"]
 
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
