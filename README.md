@@ -1,6 +1,5 @@
 
-<p align="center"> <img src="[https://komarev.com/ghpvc/?username=ridaelfagrouch&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Ffr%2Fexemplaryfairfeline&psig=AOvVaw28PFgxqKrQiF1K2ULoqs6j&ust=1653920916170000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDwxdf1hPgCFQAAAAAdAAAAABAJ)" alt="ridaelfagrouch" /> </p>
-
+<p align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Ffr%2Fexemplaryfairfeline&psig=AOvVaw28PFgxqKrQiF1K2ULoqs6j&ust=1653920916170000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDwxdf1hPgCFQAAAAAdAAAAABAJ" /> </p>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridaelfagrouch&label=Profile%20views&color=0e75b6&style=flat" alt="ridaelfagrouch" /> </p>
