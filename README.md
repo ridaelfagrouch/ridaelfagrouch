@@ -7,6 +7,10 @@
     <img width="400" align=" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2>
+                                                                                                                         
+<div>                                                                                                                         
+ <img width="500" align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridaelfagrouch&label=Profile%20views&color=0e75b6&style=flat" alt="ridaelfagrouch" /> </p>
 
