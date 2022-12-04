@@ -17,8 +17,10 @@
 - 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **elfagrouchrida21@gmail.com**
+- 
+- ask me about : **C**, **C++**, **C#**, **Javascript**
 
-- ⚡ Fun fact **I am fanny😁😁😁**
+- ⚡ Fun fact **I am fanny😁😁😁** **and Fast learner ⚡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
