@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **elfagrouchrida21@gmail.com**
 
-- ask me about : **C**, **C++**, **Javascript**, **typescript** **Docker**, **React**, **ReactNative**
+- ask me about : **C**, **C++**, **Javascript**, **typescript**, **Docker**, **React**, **ReactNative**
 
 - ⚡ Fun fact **I am fanny😁😁😁** **and Fast learner ⚡**
 
