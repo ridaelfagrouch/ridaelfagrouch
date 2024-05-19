@@ -5,11 +5,7 @@
   <br> I'm Rida Elfagrouch, A Passionate Developer From Morocco :computer:<br>
  </abc>
 </h2>
-                                                                                                                         
-<div>                                                                                                                         
- <img width="500" align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
-</div>
-
+                                                                                                                       
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridaelfagrouch&label=Profile%20views&color=0e75b6&style=flat" alt="ridaelfagrouch" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@rida34089360" target="blank"><img src="https://img.shields.io/twitter/follow/@rida34089360?logo=twitter&style=for-the-badge" alt="@rida34089360" /></a> </p>
